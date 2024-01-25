@@ -1,13 +1,13 @@
 # site properties and page defaults
-title: markravinet
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: EcoEvoGenomics
+subtitle: The Ecological and Evolutionary Genetics Group at the University of Oslo
+description: Welcome to the EEG group at UiO. We are interested in understanding the basis of adaptation and speciation and also how human activity shapes and alters these processes!
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@markravinet.com
+  email: mark.ravinet@ibv.uio.no
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: markravinet
