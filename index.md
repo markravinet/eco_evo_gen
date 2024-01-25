@@ -1,9 +1,12 @@
 ---
 ---
 
-# markravinet's Website
+# The Ecological and Evolutionary Genetics Group at UiO
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the EEG group based at the Centre for Ecological and Evolutionary Synthesis at the University of Oslo, Norway. We use ecology, evolutionary biology and genomics to understand adaptation and speciation in a changing world. In particular, we are interested in how human activity is able to shape and alter these processes. The group works on a wide variety of organisms but our main focus is on *Passer* sparrows, particularly the remarkable house sparrow. 
+
+
+
 
 {% include section.html %}
 
@@ -16,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Research"
   text=text
 %}
 
@@ -39,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Projects"
   flip=true
   style="bare"
   text=text
@@ -76,6 +79,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="People"
   text=text
 %}

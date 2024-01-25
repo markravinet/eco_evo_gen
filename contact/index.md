@@ -7,15 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+If you have any questions or are interested in joining the research group, please contact the group leader Mark Ravinet! 
 
 {%
   include button.html
   type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
+  text="mark.ravinet@ibv.uio.no"
+  link="mark.ravinet@ibv.uio.no"
 %}
 {%
   include button.html
@@ -27,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/A5gZYzoh13GmUHqv8"
 %}
 
 {% include section.html %}
