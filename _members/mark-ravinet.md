@@ -1,7 +1,7 @@
 ---
 name: Mark Ravinet
 image: images/mark.jpeg
-description: Associate Professor 
+description: Principal Investigator
 links:
   home-page: https://markravinet.github.io
   twitter: mark_ravinet
