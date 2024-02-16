@@ -1,19 +1,11 @@
 ---
 name: Mark Ravinet
-image: images/photo.jpg
-role: pi
-aliases:
-  - M. Ravinet
-  - M Ravinet
+image: images/mark.jpeg
+description: Associate Professor 
 links:
   home-page: https://markravinet.github.io
+  twitter: mark_ravinet
   orcid: 0000-0002-2841-1798
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+I am an evolutionary biologist investigating how environmental and ecological change driven by human activity shapes speciation, adaptation, behaviour and evolution. I have worked on a wide variety of organisms including sticklebacks and *Littorina* marine snails but most recently my attention has turned to *Passer* sparrows. I want to understand how adaptation to an anthropogenic niche evolves and what consequences this has for the life history, morphology and behaviour of a species. To achieve this my research harnesses large open-source ecological datasets, incorporates genomics, stable isotope ecology, phenotypic data and behavioural ecology. 
