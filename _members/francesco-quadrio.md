@@ -1,6 +1,6 @@
 ---
 name: Francesco Quadrio
-image: images/francesco.png
+image: images/francesco.jpg
 description: Visiting MSc student
 links:
   email:  francesq@student.matnat.uio.no
